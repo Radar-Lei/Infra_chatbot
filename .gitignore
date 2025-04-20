@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+project_information_sample/
+*.pdf
+低空技术背景下的城市轨道交通土建设施维养平台开发0413_md/
